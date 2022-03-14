@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Projeto-API-Temperatura/static/css/main.00ed563e.css",
-    "main.js": "/Projeto-API-Temperatura/static/js/main.b063cfad.js",
-    "index.html": "/Projeto-API-Temperatura/index.html",
-    "main.00ed563e.css.map": "/Projeto-API-Temperatura/static/css/main.00ed563e.css.map",
-    "main.b063cfad.js.map": "/Projeto-API-Temperatura/static/js/main.b063cfad.js.map"
+    "main.css": "/API-Temperatura/static/css/main.00ed563e.css",
+    "main.js": "/API-Temperatura/static/js/main.b063cfad.js",
+    "index.html": "/API-Temperatura/index.html",
+    "main.00ed563e.css.map": "/API-Temperatura/static/css/main.00ed563e.css.map",
+    "main.b063cfad.js.map": "/API-Temperatura/static/js/main.b063cfad.js.map"
   },
   "entrypoints": [
     "static/css/main.00ed563e.css",
