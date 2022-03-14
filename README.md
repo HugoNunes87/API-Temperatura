@@ -5,13 +5,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## API Ultilizada
 [Weather API](https://www.weatherapi.com/)
 
-## Como Baixar os Aquivos 
+## Como Baixar os Aquivos  e Executar
 1. Clique na opção Code/Código no Github
 2. Copie o link gerado
-3. Crie uma pasta com o nome desejado abra-o com o PowerShell (Windows) no diretório
+3. Crie uma pasta com o nome desejado abra-o com o PowerShell (Windows) ,Botao dieto do mouse, no diretório
 4. Digite `git clone + link gerado no github`
-5. Observação: Certifique-se antes de dar `npm start` no arquivo se o `node_modules` esta instalado 
-6. Se nao estiver instalado abra o terminal, verifique se esta no diretorio certo, e digite `npm install`.
+5. Agora Entre no diretorio do que foi baixado ( cd + nome do arquivo)
+6. Para executar precisa do `node_modeles`, para isso digite `npm install` e confirme
+7. Com tudo isso pronto agora o arquivo esta pronto para ser executado no navegador, `npm start` e confirme.
+
 
 ## Available Scripts
 
