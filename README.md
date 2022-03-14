@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Como Baixar os Aquivos  e Executar
 1. Clique na opção Code/Código no Github
 2. Copie o link gerado
-3. Crie uma pasta com o nome desejado abra-o com o PowerShell (Windows) ,Botao direito do mouse, no diretório
+3. Crie uma pasta com o nome desejado abra-o com o PowerShell (Windows) clicando no Botao direito do mouse, no diretório
 4. Digite `git clone + link gerado no github`
 5. Agora Entre no diretorio do que foi baixado ( cd + nome do arquivo)
 6. Para executar precisa do `node_modeles`, para isso digite `npm install` e confirme
