@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## API Ultilizada
 [Weather API](https://www.weatherapi.com/)
 
+## Como Baixar os Aquivos e Execeutar
+1. Clique na opção Code/Código no Github
+2. Copie o link gerado
+3. Crie uma pasta com o nome desejado abra-o e abra o PowerShell (Windows) no diretório
+4. Digite git clone + link gerado no github
+
 ## Available Scripts
 
 In the project directory, you can run:
