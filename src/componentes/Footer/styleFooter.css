@@ -1,0 +1,9 @@
+.footer{
+    background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(17, 54, 71));
+    color: #fff;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+    
+}
