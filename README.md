@@ -11,8 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Crie uma pasta com o nome desejado abra-o com o PowerShell (Windows) clicando no Botao direito do mouse, no diretório
 4. Digite `git clone + link gerado no github`
 5. Agora Entre no diretorio do que foi baixado ( cd + nome do arquivo)
-6. Para executar precisa do `node_modeles`, para isso digite `npm install` e confirme
-7. Com tudo isso pronto agora o arquivo esta pronto para ser executado no navegador, `npm start` e confirme.
+6. Para executar precisa do `node_modeles`, para isso digite `npm install`  e confirme
+7. Com tudo isso pronto agora o arquivo esta pronto para ser executado no navegador, `npm start` e confirme. 
 
 
 ## Available Scripts
