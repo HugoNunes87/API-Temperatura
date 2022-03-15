@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. Digite `git clone + link gerado no github`
 5. Agora Entre no diretorio do que foi baixado ( cd + nome do arquivo que foi baixado)
 6. Para executar precisa do `node_modeles`, para isso digite `npm install`  e confirme
-7. Com tudo isso pronto agora o arquivo esta pronto para ser executado no navegador, `npm start` e confirme.
+7. Com tudo isso pronto agora o arquivo esta pronto para ser executado no navegador, digite `npm start` e confirme.
 8. `(Todo esse processo também e valido para o terminal de comando.)`
 
 
